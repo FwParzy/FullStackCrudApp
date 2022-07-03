@@ -8,4 +8,5 @@ node_modules
 .env
 
 # Ignore Vim swp files
-.swp
+*.swp
+*.swo
